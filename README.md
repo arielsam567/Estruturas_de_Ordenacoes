@@ -1,8 +1,8 @@
 # Estruturas-de-Ordenacoes
-\nExercicios sobre estrutura de dados
-\nBubble
-Insert
-Merge
-Select
-Quick
-QuickB
+Exercicios sobre estrutura de dados
+1. Bubble
+2. Insert
+3. Merge
+4. Select
+5. Quick
+6. QuickB
