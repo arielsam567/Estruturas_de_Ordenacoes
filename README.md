@@ -1,6 +1,6 @@
 # Estruturas-de-Ordenacoes
-Exercicios sobre estrutura de dados
-Bubble
+\nExercicios sobre estrutura de dados
+\nBubble
 Insert
 Merge
 Select
